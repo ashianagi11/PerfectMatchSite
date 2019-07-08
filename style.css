@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://heizerrenderom.files.wordpress.com/2018/05/students.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.backimage {
+  background-image: url(http://www.allwhitebackground.com/images/2/2278.jpg);
+  background-position: center;
+  margin-top: 25%;
+  opacity: .3;
+}
+
+#content {
+  text-align: center;
+  padding: 5%;
+   color: black;
+}
